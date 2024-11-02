@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azibaeli.github.io/IXs/sitemap_index.txt
+Sitemap: https://azibaeli.github.io/QVt/sitemap_index.txt
+Sitemap: https://azibaeli.github.io/YIw/sitemap_index.txt
+Sitemap: https://azibaeli.github.io/eXl/sitemap_index.txt
